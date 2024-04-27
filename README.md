@@ -1,1 +1,1 @@
-# NursultanSagynbaevSituationalTask2
+# NursultanSagynbaevCOM20_SituationalTask2
