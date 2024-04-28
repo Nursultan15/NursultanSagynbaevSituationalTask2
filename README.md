@@ -4,7 +4,7 @@ Hello . My presentation will help novice programmers practice the Python languag
 
 link to Canva :https://www.canva.com/design/DAGDlWTE9xg/fb9nbk5SRBLecy48KW5I_Q/edit?utm_content=DAGDlWTE9xg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-In my presenttion you will learn about Variables , Loops and fucntion . There a short topics about them , videolesson for every subject , examples and quizes.
+In my presenttion you will learn about Variables , Loops and Fucntion in Python . There a short topics about them , video lessons for every subject , examples and quizes.
 
 SCREENSHOTS:
 ![Снимок экрана (53)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/b87eb0d8-b51e-496a-86f5-7000ecde2b83)
