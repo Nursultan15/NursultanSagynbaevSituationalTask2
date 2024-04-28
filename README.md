@@ -1,7 +1,6 @@
 # NursultanSagynbaevCOM20_SituationalTask2
 
-
-
+SCREENSHOTS:
 ![Снимок экрана (53)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/b87eb0d8-b51e-496a-86f5-7000ecde2b83)
 ![Снимок экрана (54)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/0de4734d-02b4-44f3-adcb-868bb5caffbe)
 ![Снимок экрана (55)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/ca63d96b-e82f-4281-9985-e63dab3ac606)
