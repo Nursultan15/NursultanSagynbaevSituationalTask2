@@ -6,6 +6,17 @@ link to Canva :https://www.canva.com/design/DAGDlWTE9xg/fb9nbk5SRBLecy48KW5I_Q/e
 
 In my presenttion you will learn about Variables , Loops and Fucntion in Python . There a short topics about them , video lessons for every subject , examples and quizes.
 
+Python is a popular programming language that is both flexible and easy for beginners to learn. It is crucial to comprehend the basic building blocks of coding, regardless of your experience level as a developer. We'll explore the three main parts of Python in this presentation: variables, loops, and functions.
+
+Any programming language's foundation is its use of variables, which let us store and modify data. All you have to do to declare a variable in Python is give it a value. We will examine various data types, including booleans, strings, floats, and integers, and learn how to operate on them in a basic manner. We'll also go through variable naming conventions and how to write clean, readable code.
+
+Loops: To efficiently carry out repetitive tasks, loops are necessary. For and while are the two primary loop types available in Python. We'll go over how each of these loops operates and when to use it. We'll demonstrate how loops can iterate over lists, tuples, dictionaries, and other iterable objects with real-world examples. We'll also go over loop control statements, which give loops flexibility and control: break, continue, and pass.
+Uses:
+
+Code can be arranged into reusable building blocks by using functions, which encourages modularity and readable code. We'll study function definition, parameter passing, and value return. Python gives developers the ability to create custom solutions that are suited to their particular needs by supporting both user-defined functions and built-in functions. We'll go over the idea of scope and talk about how important it is to write coherent, modular
+
+Gaining proficiency with variables, loops, and functions will give you a strong basis in Python programming. These fundamental components will act as the building blocks of your code, regardless of how sophisticated the applications or scripts you're creating are. Now let's get started and utilize Python to its fullest!
+
 SCREENSHOTS:
 ![Снимок экрана (53)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/b87eb0d8-b51e-496a-86f5-7000ecde2b83)
 ![Снимок экрана (54)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/0de4734d-02b4-44f3-adcb-868bb5caffbe)
