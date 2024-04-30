@@ -17,7 +17,7 @@ Code can be arranged into reusable building blocks by using functions, which enc
 
 Gaining proficiency with variables, loops, and functions will give you a strong basis in Python programming. These fundamental components will act as the building blocks of your code, regardless of how sophisticated the applications or scripts you're creating are. Now let's get started and utilize Python to its fullest!
 
-SCREENSHOTS:
+SCREENSHOTS and memes:
 ![Снимок экрана (53)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/b87eb0d8-b51e-496a-86f5-7000ecde2b83)
 ![Снимок экрана (54)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/0de4734d-02b4-44f3-adcb-868bb5caffbe)
 ![Снимок экрана (55)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/ca63d96b-e82f-4281-9985-e63dab3ac606)
