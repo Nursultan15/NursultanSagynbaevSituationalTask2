@@ -2,7 +2,7 @@
 
 Hello . My presentation will help novice programmers practice the Python language subjects : Variables , Loops and Functions
 
-link to Canva :https://www.canva.com/design/DAGDlWTE9xg/fb9nbk5SRBLecy48KW5I_Q/edit?utm_content=DAGDlWTE9xg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+link to My Presentation :https://www.canva.com/design/DAGDlWTE9xg/fb9nbk5SRBLecy48KW5I_Q/edit?utm_content=DAGDlWTE9xg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 In my presenttion you will learn about Variables , Loops and Fucntion in Python . There a short topics about them , video lessons for every subject , examples and quizes.
 
