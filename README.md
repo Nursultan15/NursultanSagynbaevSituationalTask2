@@ -1,12 +1,12 @@
 # NursultanSagynbaevCOM20_SituationalTask2
 
-Hello . My presentation will help novice programmers practice the Python language subjects : Variables , Loops and Functions
+#Hello . My presentation will help novice programmers practice the Python language subjects : Variables , Loops and Functions
 
-link to Canva :https://www.canva.com/design/DAGDlWTE9xg/fb9nbk5SRBLecy48KW5I_Q/edit?utm_content=DAGDlWTE9xg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+#link to Canva :https://www.canva.com/design/DAGDlWTE9xg/fb9nbk5SRBLecy48KW5I_Q/edit?utm_content=DAGDlWTE9xg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-In my presenttion you will learn about Variables , Loops and Fucntion in Python . There a short topics about them , video lessons for every subject , examples and quizes.
+#In my presenttion you will learn about Variables , Loops and Fucntion in Python . There a short topics about them , video lessons for every subject , examples and quizes.
 
-SCREENSHOTS:
+#SCREENSHOTS:
 ![Снимок экрана (53)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/b87eb0d8-b51e-496a-86f5-7000ecde2b83)
 ![Снимок экрана (54)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/0de4734d-02b4-44f3-adcb-868bb5caffbe)
 ![Снимок экрана (55)](https://github.com/Nursultan15/NursultanSagynbaevSituationalTask2/assets/73534336/ca63d96b-e82f-4281-9985-e63dab3ac606)
